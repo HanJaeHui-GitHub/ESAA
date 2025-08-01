@@ -352,4 +352,4 @@ cluster|인자1|인자2|인자3|인자4|인자5|점수|점수(0~100)
 1|-0.040368|1.115880|-0.766326|0.035378|-0.718829|0.268481|76.247792 $\rightarrow$ 저위험
 2|1.521519|0.069033|-0.088691|0.553548|0.613753|0.391993|85.884624 $\rightarrow$ 고위험
 
-<img width="502" height="463" alt="image" src="https://github.com/user-attachments/assets/9d0eeffb-783f-442f-9649-87a584621f32" />
+<img width="886" height="967" alt="image" src="https://github.com/user-attachments/assets/a93149de-9ef0-4f0b-86d8-88d816d6578c" />
