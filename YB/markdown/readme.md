@@ -4,7 +4,7 @@
 
 | 주차 | 파일명 (Link) | 세션일 | 주제 | 주요 내용 |
 | :--- | :--- | :--- | :--- | :--- |
-| **Week 01** | [ESAA_YB_Week01_markdown.ipynb](./YB/markdown/ESAA_YB_Week01_markdown.ipynb) | 9/2, 9/6 | **Numpy** | 파이썬 넘파이 기초 및 연습문제 풀이 |
+| **Week 01** | [ESAA_YB_Week01_markdown.ipynb](./ESAA_YB_Week01_markdown.ipynb) | 9/2, 9/6 | **Numpy** | 파이썬 넘파이 기초 및 연습문제 풀이 |
 | **Week 02** | [ESAA_YB_Week02_markdown.ipynb](./YB/markdown/ESAA_YB_Week02_markdown.ipynb) | 9/9, 9/13 | **Pandas** | 판다스 데이터 핸들링 및 시각화 기초 |
 | **Week 03** | [ESAA_YB_Week03_markdown.ipynb](./YB/markdown/ESAA_YB_Week03_markdown.ipynb) | 9/16, 9/20 | **시각화 & 캐글** | **Instacart 캐글** 실습 및 데이터 분석 |
 | **Week 04** | [ESAA_YB_Week04_markdown.ipynb](./YB/markdown/ESAA_YB_Week04_markdown.ipynb) | 9/23, 9/27 | **시계열 & 사이킷런** | 시계열 데이터 및 사이킷런 기초 이론 |
